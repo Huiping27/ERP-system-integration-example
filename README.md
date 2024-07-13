@@ -13,6 +13,8 @@ Testen und Implementieren
 Überwachung und Optimierung
 
 Mermaid Diagramm
+
+
 Das Diagramm zeigt die Schritte zur Implementierung eines ERP-Systems und die Vorteile, die das Projekt mit sich bringt.
 
 graph TD
