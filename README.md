@@ -1,22 +1,15 @@
-Einführung eines ERP-Systems
-Projektziele
-Integration der Geschäftsprozesse
-Echtzeit-Datenverfügbarkeit
-Automatisierung von Prozessen
-Verbesserung der Berichterstattung
-Schritte zur Implementierung
-Bedarfsanalyse und Planung
-Systemauswahl und Anpassung
-Datenmigration
-Schulung der Mitarbeiter
-Testen und Implementieren
-Überwachung und Optimierung
+```markdown
+# Digitalisierungsprojekt: Einführung eines ERP-Systems
 
-Mermaid Diagramm
+## Projektziele
+1. Integration der Geschäftsprozesse
+2. Echtzeit-Datenverfügbarkeit
+3. Automatisierung von Prozessen
+4. Verbesserung der Berichterstattung
 
+## Schritte zur Implementierung
 
-Das Diagramm zeigt die Schritte zur Implementierung eines ERP-Systems und die Vorteile, die das Projekt mit sich bringt.
-
+```mermaid
 graph TD
     A[Bedarfsanalyse und Planung] --> B[Systemauswahl und Anpassung]
     B --> C[Datenmigration]
