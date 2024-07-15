@@ -24,7 +24,7 @@ graph TD
         V4[Erhöhte Transparenz]
         V5[Bessere Kundenbetreuung]
     end
-
+@ Huiping Li
     F --> V1
     F --> V2
     F --> V3
